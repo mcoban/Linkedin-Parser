@@ -1,0 +1,26 @@
+<svg id="Networking-1" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_9" data-name="Group 9">
+    <path id="Path_9" data-name="Path 9" d="M5.5,17a.472.472,0,0,0,.5-.5V7H7.5a.5.5,0,0,0,0-1h-2a.472.472,0,0,0-.5.5v10A.472.472,0,0,0,5.5,17Z" fill="#fff"/>
+  </g>
+  <g id="Group_10" data-name="Group 10">
+    <path id="Path_10" data-name="Path 10" d="M22.5,7H24v9.5a.5.5,0,0,0,1,0V6.5a.472.472,0,0,0-.5-.5h-2a.5.5,0,0,0,0,1Z" fill="#fff"/>
+  </g>
+  <g id="Group_11" data-name="Group 11">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="3" cy="3" r="3" transform="translate(3 18)" fill="#fff"/>
+  </g>
+  <g id="Group_12" data-name="Group 12">
+    <path id="Path_11" data-name="Path 11" d="M9.1,24.1a.637.637,0,0,0-.6,0,3.922,3.922,0,0,1-5,0,.637.637,0,0,0-.6,0A6.887,6.887,0,0,0,0,29.5a.472.472,0,0,0,.5.5h11a.472.472,0,0,0,.5-.5A6.887,6.887,0,0,0,9.1,24.1Z" fill="#fff"/>
+  </g>
+  <g id="Group_13" data-name="Group 13">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="3" cy="3" r="3" transform="translate(21 18)" fill="#fff"/>
+  </g>
+  <g id="Group_14" data-name="Group 14">
+    <path id="Path_12" data-name="Path 12" d="M27.1,24.1a.637.637,0,0,0-.6,0,3.922,3.922,0,0,1-5,0,.637.637,0,0,0-.6,0A6.887,6.887,0,0,0,18,29.5a.472.472,0,0,0,.5.5h11a.472.472,0,0,0,.5-.5A6.887,6.887,0,0,0,27.1,24.1Z" fill="#fff"/>
+  </g>
+  <g id="Group_15" data-name="Group 15">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="3" cy="3" r="3" transform="translate(12)" fill="#fff"/>
+  </g>
+  <g id="Group_16" data-name="Group 16">
+    <path id="Path_13" data-name="Path 13" d="M9.5,12h11a.472.472,0,0,0,.5-.5,6.887,6.887,0,0,0-2.9-5.4.638.638,0,0,0-.6,0,3.922,3.922,0,0,1-5,0,.638.638,0,0,0-.6,0A6.887,6.887,0,0,0,9,11.5.472.472,0,0,0,9.5,12Z" fill="#fff"/>
+  </g>
+</svg>

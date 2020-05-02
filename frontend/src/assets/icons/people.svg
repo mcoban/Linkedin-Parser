@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.041" height="30" viewBox="0 0 23.041 30">
+  <g id="Contact-Book_1" data-name="Contact-Book 1" transform="translate(-3.5)">
+    <g id="Group_22" data-name="Group 22">
+      <path id="Path_18" data-name="Path 18" d="M7,9H26a.55.55,0,0,0,.5-.3V8.4h0V8.3h0a.349.349,0,0,0-.1-.2A5.452,5.452,0,0,1,25.3,5H7a.472.472,0,0,1-.5-.5A.472.472,0,0,1,7,4H25.3A4.615,4.615,0,0,1,26.4.9c.1-.1.2-.4.1-.5S26.2,0,26,0H7.1A3.443,3.443,0,0,0,3.5,3.5v2A3.418,3.418,0,0,0,7,9Z" fill="#fff"/>
+    </g>
+    <g id="Group_23" data-name="Group 23">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="2.5" cy="2.5" r="2.5" transform="translate(12.5 14)" fill="#fff"/>
+    </g>
+    <g id="Group_24" data-name="Group 24">
+      <path id="Path_19" data-name="Path 19" d="M15,20c-3.1,0-4.3,2.5-4.5,5h9C19.3,22.5,18.1,20,15,20Z" fill="#fff"/>
+    </g>
+    <g id="Group_25" data-name="Group 25">
+      <path id="Path_20" data-name="Path 20" d="M26,10H7A4.33,4.33,0,0,1,3.5,8.4V26.5A3.418,3.418,0,0,0,7,30H26a.472.472,0,0,0,.5-.5V9.9A.9.9,0,0,1,26,10ZM20,26H10a.472.472,0,0,1-.5-.5c0-2.4.9-5.2,3.5-6.2a3.46,3.46,0,0,1-1.5-2.8,3.5,3.5,0,0,1,7,0A3.324,3.324,0,0,1,17,19.3c2.5,1,3.5,3.7,3.5,6.2A.472.472,0,0,1,20,26Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

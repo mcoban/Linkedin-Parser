@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="26" viewBox="0 0 30 26">
+  <g id="brifcase_2_" transform="translate(0 -2)">
+    <g id="Group_18" data-name="Group 18">
+      <g id="Group_17" data-name="Group 17">
+        <path id="Path_15" data-name="Path 15" d="M19.5,7h-9a.472.472,0,0,1-.5-.5v-3A1.326,1.326,0,0,1,11.5,2h7A1.326,1.326,0,0,1,20,3.5v3A.472.472,0,0,1,19.5,7ZM11,6h8V3.5c0-.4-.1-.5-.5-.5h-7c-.4,0-.5.1-.5.5Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_21" data-name="Group 21">
+      <g id="Group_19" data-name="Group 19">
+        <path id="Path_16" data-name="Path 16" d="M25,15v3.5a.472.472,0,0,1-.5.5h-4a.472.472,0,0,1-.5-.5V15H10v3.5a.472.472,0,0,1-.5.5h-4a.472.472,0,0,1-.5-.5V15H0V26c0,1,.5,2,1.5,2h27c1,0,1.5-1,1.5-2V15Z" fill="#fff"/>
+      </g>
+      <g id="Group_20" data-name="Group 20">
+        <path id="Path_17" data-name="Path 17" d="M30,14V7.5A1.326,1.326,0,0,0,28.5,6H1.5A1.326,1.326,0,0,0,0,7.5V14Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
