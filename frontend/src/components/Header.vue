@@ -5,10 +5,10 @@
         <a class="header__brand" href="#"><img src="../assets/header-logo.png" height="34" alt="Logo"></a>
         <input @focus="showModal = true" type="text" class="header__search" placeholder="Search a brand, company or persona">
         <nav class="header__navmenu">
-          <li><a href="#"><img src="../assets/icons/notification-white.svg" alt="Network" height="18"><span>Notifications</span></a></li>
           <li><a href="#"><img src="../assets/icons/people.svg" alt="Network" height="18"><span>People</span></a></li>
           <li><a href="#"><img src="../assets/icons/companies-white.svg" alt="Network" height="18"><span>Companies</span></a></li>
           <li><a href="#"><img src="../assets/icons/jobs-white.svg" alt="Network" height="18"><span>Jobs</span></a></li>
+          <li><a href="#"><img src="../assets/icons/notification-white.svg" alt="Network" height="18"><span>Notifications</span></a></li>
         </nav>
       </div>
     </div>
