@@ -19,6 +19,7 @@ export default {
 </script>
 
 <style lang="scss">
+$main-color: rgba(40,62,74,.75);
 html, body {
   padding: 0;
   margin: 0;
