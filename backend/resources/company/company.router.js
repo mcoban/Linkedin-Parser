@@ -1,9 +1,11 @@
 const express = require('express')
+const companyController = require('./company.controller')
 
-const app = express.Router()
+const router = express.Router()
 
-app.get('/', (req, res) => {
-  
-})
+router
+  .route('/')
+  .get(companyController.getCompanies)
+  .post(companyController.addCompany)
 
-module.exports = app
+module.exports = router
