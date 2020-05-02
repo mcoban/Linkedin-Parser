@@ -16,6 +16,7 @@ $main-color: rgba(40,62,74,.75);
   background: #fff;
   border: 1px solid #ddd;
   border-radius: 4px;
+  margin-bottom: 1rem;
 
   .card__header {
     display: flex;

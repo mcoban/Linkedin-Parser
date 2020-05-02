@@ -14,7 +14,7 @@ exports.addCompany = async (req, res) => {
   let taskId = await Crawler.crawlCompany(url)
   if (taskId) {
     res.status(200).send({
-      status: true,
+      status: 'success',
       message: 'Task is added to Queue'
     })
   }
