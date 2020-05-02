@@ -24,6 +24,11 @@ exports.crawlCompany = url => {
       url
     }).removeOnComplete(true).save(err => {
       if (!err) {
+        new Task({
+          taskId: job.id,
+          name: 'Company Crawl',
+          description: `A new crawl job is added to Queue for crawling company via Linkedin URL: ${url}`
+        })
         resolve(job.id)
       } else {
         reject(false)
