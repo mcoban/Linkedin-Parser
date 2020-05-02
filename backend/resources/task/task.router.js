@@ -5,6 +5,6 @@ const router = express.Router()
 
 router
   .route('/')
-  .get(taskController.getCompanies)
+  .get(taskController.getTasks)
 
 module.exports = router
