@@ -17,6 +17,7 @@ const companySchema = new mongoose.Schema({
   headquarters: String,
   founded: Number,
   locations: Number,
+  status: String,
 }, { timestamps: true })
 
 companySchema.index({ name: 1 })
